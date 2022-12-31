@@ -1,2 +1,2 @@
 # NamasteReact
-All the Notes and Assignments Real
+All the Notes and Assignments Related to React Js
