@@ -1,6 +1,6 @@
 const heading1 = React.createElement("h1", {
     id: "title"
-    } , "Heading 1 "); 
+    } , "Heading 11 "); 
     const heading2 = React.createElement("h2", {
     id: "title"
     } , "Heading 2 "); 
