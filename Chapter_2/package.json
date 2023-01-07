@@ -2,7 +2,7 @@
   "name": "chapter_2",
   "version": "1.0.0",
   "description": "This is the S2 Session",
-  //"main": "App.js", -- Not needed in Parcel as it treated as entry point. 
+  
   "scripts": {
     "test": "jest"
   },

@@ -2,9 +2,24 @@
 
 Hot Module Replacement -- Parcel will keep an eye on everything whatever you changr and will restart the server whenever we change something.
 File Watcher Algorithm -- C++ 
+MINIFY 
+Buldling 
+Cleaning the code
+It manages dev and production build.  == Use npx parcel build index.html
+Caching while Development 
+Image Optimzation
+Compression 
+Older Version On Browser 
+HTTPS on Dev -- npx parcel index.html --https
+Everything is stored at parcel-cache 
+Port Number 
+Consistent Hashing Algorithm 
+Zero Config 
 
+Transitive Dependencies
 
-
+Browser List -- It's an array that will version list of browser -- Parcel will make sure whatever mentioned the app will 
+run on those browser.  -- Its inside the package.json
 
 */
 
